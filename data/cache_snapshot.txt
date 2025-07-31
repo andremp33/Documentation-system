@@ -1,0 +1,3 @@
+Cache Snapshot - 2 entries
+ID 7: Lincoln's Second Inaugural Address, March 4, 1865
+ID 8: Lincoln's First Inaugural Address, March 4, 1861

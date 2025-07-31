@@ -1,0 +1,9 @@
+2|Lincoln's Second Inaugural Address, March 4, 1865|Abraham Lincoln|2023|8.txt
+3|Lincoln's First Inaugural Address, March 4, 1861|Abraham Lincoln|2023|9.txt
+4|Lincoln's Second Inaugural Address, March 4, 1865|Abraham Lincoln|1865|8.txt
+5|Lincoln's Second Inaugural Address, March 4, 1865|Abraham Lincoln|1865|8.txt
+6|The United States' Constitution| Founding Fathers|2023|5.txt
+7|Lincoln's Second Inaugural Address, March 4, 1865|Abraham Lincoln|2023|8.txt
+8|Lincoln's First Inaugural Address, March 4, 1861|Abraham Lincoln|2023|9.txt
+9|Lincoln's Second Inaugural Address, March 4, 1865|Abraham Lincoln|1865|8.txt
+10|Lincoln's Second Inaugural Address, March 4, 1865|Abraham Lincoln|1865|8.txt
